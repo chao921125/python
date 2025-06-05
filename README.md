@@ -12,3 +12,8 @@
 | [Scrapy](https://github.com/scrapy/scrapy)       |
 | [Sanic](https://github.com/sanic-org/sanic)      |
 | [Tornado](https://github.com/tornadoweb/tornado) |
+
+# 安装包失败
+```shell
+pip3 install httpx -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn
+```
