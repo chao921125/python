@@ -16,4 +16,6 @@
 # 安装包失败
 ```shell
 pip3 install httpx -i https://pypi.tuna.tsinghua.edu.cn/simple --trusted-host pypi.tuna.tsinghua.edu.cn
+
+setopt no_nomatch
 ```
